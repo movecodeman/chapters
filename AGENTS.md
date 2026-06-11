@@ -22,6 +22,13 @@
 - 多女角色不等于廉价后宫。每个重要女性角色必须有独立目标、阵营价值、能力和剧情功能。
 - 前期入宗门之前不写杀人等过重桥段。白石城阶段以资源、炼药、利益拉扯、家庭责任和入山选压力塑造主角。
 - 主角的优点必须通过行动表现：对母亲的照料、对弱者的边界式帮助、对证据的保存、对利益的计算、对修行的坚持、对敌人的克制，而不是干巴巴介绍。
+- 正文创作采用高质量单章流程：先确认后续三到五章小纲, 再每次只正式写一章；最多一次写两章, 且第二章只能作为粗稿或待审稿。禁止一次性连续定稿三章以上, 以免后段质量下降。
+- 每章动笔前必须列清本章目标、即时冲突、人物选择、修仙反馈、资源流动、伏笔推进和章末钩子。写完后必须做人工智能感、连续性、节奏和防撞车自检。
+- 每一章都必须按商业网文追读标准自评。四点五分是最低合格线，不是目标线；默认目标应冲四点六到四点八。若单章低于四点五，不得视为定稿，必须重构或重写；若勉强达到四点五但存在明显开头突兀、叙事啰嗦、文笔平、爽点弱或人物不讨喜，也必须继续精修，不能用“达标”敷衍。
+- 每章首句必须强制审计。写新章或精修旧章前后，都要对最近三章和当前章首句标注入口类型；禁止连续使用同构开头，例如“某物落下时”“某事发生后”“某人把某物如何”“某地某物先如何”“不是……而是……”等。若首句读起来像模板，必须先改首句和首段，再进入正文定稿评分。
+- 每章开头必须有“连续气口”。除第一章外，章首不能像本章提要、章节海报或重新开屏，必须接住上一章章末的声音、物件、决定、身体余痛、未解问题、时间推进或人物动作。写完后必须检查：上一章最后一口气，是否在本章第一段继续呼出来。若没有，开头重写。
+- 每三章做一次整体节奏审稿, 每十二章做一次小卷结构体检。若任一单章或章节组评分低于四点五, 优先回修旧章, 不盲目继续往后写。
+- 参考经典和当前主流网文时，只学习结构能力：开章如何承接上章钩子、冲突如何迅速入场、人物如何在选择里立住、爽点如何兑现、长线伏笔如何埋入日常。严禁模仿或复刻已发表作品的句子、桥段、人物组合、金手指机制和标志性设定。
 - 每写完一章必须做写后复盘，并更新 `reviews/ch001-003-writing-lessons.md` 或后续对应复盘文件。复盘至少包括：本章目标是否完成、最有效钩子、盛砚性格如何通过行动表现、新增设定和资源账、伏笔、人工智能感残留、连续性风险和下一章注意事项。
 - 前三章修订经验必须长期遵守：单章推进，开章靠近矛盾；不写无意义孤立短句；危机判断必须来自可见细节；爽点不能靠反派降智；金手指秘密线只让盛砚掌握，外人只能怀疑净粉、样货、账册或新货源。
 
@@ -33,14 +40,16 @@
 - 起点宗门：百草门。
 - 核心金手指：净尘炉。
 - 宗门隐秘依靠：陆清崖，表面身份为洗药房附近的陆炉翁，真实身份为百草门隐退老祖。
-- 第一处重要副本：旧丹窟，第一卷只表现为残方、封印、邪息和镇妖纹，不完整揭露强大妖灵。
+- 第一处重要副本：旧丹窟，表面是废弃丹房和地下炉窟，实际为远古镇妖封印所在地；第一卷只表现为残方、封印、邪息、镇妖纹和玄殛剑残光，不完整揭露强大妖灵。
+- 百炉归元阵：百草门固定丹房主炉、旧丹窟遗炉和部分旧炉位是远古镇妖大阵外层阵炉，炼丹产生的纯净炉炁会补入地脉维持封印；百草门当代宗门并不知道完整真相，只保留炼丹旧规。
+- 远古镇封器：玄殛剑，嵌在旧丹窟阵眼中镇压魇烬的一截本源或残躯，不是主角前期可获得的法宝。
 - 中后段强大妖灵：魇烬。
 - 商业节奏：起点长线，开局仍需有明确钩子。
 
 ## 必读文件
 
-- 做架构工作前，读取：`bible/story-bible.md`、`bible/world.md`、`bible/cultivation-system.md`、`bible/combat-and-techniques.md`、`bible/economy.md`、`bible/demon-spirit-system.md`、`bible/starter-village.md`、`bible/style.md`、`bible/jingchen-furnace.md`、`bible/hidden-ancestor.md`。
-- 写章节前，读取：`outline/volume-1.md`、`outline/chapter-table.csv`、`bible/characters.md`、`bible/combat-and-techniques.md`、`bible/economy.md`、`bible/style.md`、`bible/prose-style.md`、`bible/hidden-ancestor.md`、`trackers/foreshadowing.csv`。
+- 做架构工作前，读取：`bible/story-bible.md`、`bible/world.md`、`bible/cultivation-system.md`、`bible/timeline-and-power-scale.md`、`bible/combat-and-techniques.md`、`bible/economy.md`、`bible/demon-spirit-system.md`、`bible/starter-village.md`、`bible/style.md`、`bible/jingchen-furnace.md`、`bible/hidden-ancestor.md`。
+- 写章节前，读取：`outline/volume-1.md`、`outline/chapter-table.csv`、`outline/ch013-040-strong-plot.md`、`bible/characters.md`、`bible/cultivation-system.md`、`bible/timeline-and-power-scale.md`、`bible/combat-and-techniques.md`、`bible/economy.md`、`bible/style.md`、`bible/prose-style.md`、`bible/hidden-ancestor.md`、`trackers/foreshadowing.csv`。
 - 写章节前后，读取或更新：`reviews/ch001-003-writing-lessons.md`。后续若形成新的章节复盘文件，也一并维护。
 - 做连续性修订前，检查或更新：`trackers/continuity.csv`。
 - 确定书名、开局、核心设定或关键桥段前，更新：`trackers/anti-plagiarism-log.md`。
